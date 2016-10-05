@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="28e5375920a4f6e73123e45ab6ad3b8bc93b0869">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.9.2_65cb0707c1855f6a95082d312650f4f80c486a19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_c5d355c9e581270318b9d4fc017673d42e676aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_5dd4eeb3aafca72262ea976219f11a93deb99e7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_2f0284694878f1ada7ebc32a8f16b03f3323a397\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.melnykov-floatingactionbutton-1.3.0_9668f784b5331bcd6893b98223083cf80a53f313\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_b655c4713848f7b694eae195b6f2c0fbc2e84e6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_aa2e4f8c7dd3241f2a0da435a4292c3596793d9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3cb34daac7673fc762136155dfa762f43efbef40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b3cc5f6043f93fe9650c6645b7b92f2975a28341\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_84d587e781231ea46a3cc919c853ba8fe5e3c760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2c5b2b85442e5ebb0e2d24704ef37c004c7b325">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6d6562bf131c559c44ca6a5d83b4c89724d9ac1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_141ea7ebaeb98d185a286b7eefe9c627afe1208b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Duong\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_b632533b9b2d52fef9fb00f439ca31b36569ab5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_45495243033cbcce0e00362c09f76f9ae8bded09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_350bb93bf8614dacaa0df56a4c6704d9e272cdaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_0e70a419954355bac6c49c96e8dbf233082d5fd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_4bfe5796a65ba367aa0367e75556b7a7e29827a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_c7d6ef4efdf424abf9adf1b893327dc228208fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_2ab112f8b6196fc98ebf352ff891cbfbfeb63db3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_190591e1c4cb609e86645471f5876e798807489f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_a7a4b8791a67d83ccda4eb1c701d71c099416cef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d0e4eb63e6a87fc7a681731e4ac96a6bfa4c5cea">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_be9466c7582862ef87862e9e3d04689c401e3e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_3f4cadbd3bc38fd02ab251042c8c05da5337bfd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_8460a43f581209a3e7f38749b99a831c3f300270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\io.saeid\support-animator\0.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="47170e8fc0908f66736f9e27978c77a0bda2c2af">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.saeid-support-animator-0.2.1_0b050a95aeb89505c6f74c7e5a444fbcc6a096ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_1623b87906fb0c3ed8634c1bedae2794c327b15a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_3ebfb2a84f84e870120eefa5b11a641539875f72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_fc228169dee34d4061f25ce9ce90f5aa4b5d0b5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_9669cc2ddbd41257b7834b7b156e2eef0175cd77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bfde2edd05f4ea1d32b253147ea051f7de087608\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_c651213e83b582a1bfc5b66430bb49169bcd241c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_966ef7f808d03ff69901add47f5ccb3ee526c3b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_c821e94da7b517568ca171dbb50672462a9510fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\HauiClass\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_82c13037a8bff1a14ba238f2207946984b02aca0\classes.dex" />
+    </item>
+
+</items>
