@@ -37,6 +37,7 @@ public class Test extends Activity {
                 .setSound(alarmSound)
                 .setAutoCancel(true).setContentIntent(resultPendingIntent);
         int mNotificationId = 001;
+        // le hong duong
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
             mNotifyMgr.notify(mNotificationId, nBuilder.build());
         }

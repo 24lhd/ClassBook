@@ -15,7 +15,7 @@ public class ChatActivity extends Activity {
         @Override
         public void handleMessage(Message msg) {
             if (msg.arg1==0){
-
+// 12 123123123123
             }
         }
     };
