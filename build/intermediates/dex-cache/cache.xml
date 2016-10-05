@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="f2c5b2b85442e5ebb0e2d24704ef37c004c7b325">
+        sha1="4d3d137b53eef6f9ab9395d476337462c7d10b0f">
         <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6d6562bf131c559c44ca6a5d83b4c89724d9ac1f\classes.dex" />
     </item>
     <item
@@ -196,7 +196,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="d0e4eb63e6a87fc7a681731e4ac96a6bfa4c5cea">
+        sha1="f1f6ae8e63bab5dfa1977fe49f0fd172e0118b3b">
         <dex dex="E:\HauiClass\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_be9466c7582862ef87862e9e3d04689c401e3e4b\classes.dex" />
     </item>
     <item
