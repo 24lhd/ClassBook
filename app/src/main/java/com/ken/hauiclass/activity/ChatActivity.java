@@ -16,6 +16,7 @@ public class ChatActivity extends Activity {
         public void handleMessage(Message msg) {
             if (msg.arg1==0){
 // 12 123123123123
+//le hong duong
             }
         }
     };
